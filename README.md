@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+  <content>
+## Project Name
 Personal Portfolio
 <!-- ## Installation
 TODO: Describe the installation process -->
@@ -20,5 +20,5 @@ TODO: Write license
 ]]> -->
     
 </content>
-  <tabTrigger>readme</tabTrigger>
+  <tabTrigger></tabTrigger>
 </snippet>
